@@ -1,0 +1,9 @@
+model,variable,coef,se
+(i),nj,2.359,1.1457
+(ii),nj,2.3274,1.151
+(iii),gap,15.8913,5.9524
+(iv),gap,15.1943,6.0825
+(v),gap,12.0284,7.3229
+sample,N,365.0,
+sample,mean_dep,-0.2522,
+sample,sd_dep,8.749,

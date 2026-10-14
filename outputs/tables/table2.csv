@@ -1,0 +1,21 @@
+part,variable,NJ,NJ_se,PA,PA_se,t
+store_type,a. Burger King,41.09,2.71,44.3,5.62,-0.52
+store_type,b. KFC,20.54,2.22,15.19,4.06,1.16
+store_type,c. Roy Rogers,24.77,2.38,21.52,4.65,0.62
+store_type,d. Wendy's,13.6,1.89,18.99,4.44,-1.12
+store_type,e. Company-owned,34.14,2.61,35.44,5.42,-0.22
+wave1,a. FTE employment,20.439,0.508,23.331,1.351,-2.0
+wave1,b. Percentage full-time,28.632,1.284,30.294,2.671,-0.56
+wave1,c. Starting wage,4.612,0.02,4.63,0.04,-0.4
+wave1,d. Wage = $4.25 (%),30.514,2.535,32.911,5.32,-0.41
+wave1,e. Price of full meal,3.351,0.037,3.042,0.069,3.96
+wave1,f. Hours open (weekday),14.418,0.153,14.525,0.332,-0.29
+wave1,g. Recruiting bonus (%),23.565,2.336,29.114,5.144,-0.98
+wave2,a. FTE employment,21.027,0.52,21.166,0.943,-0.13
+wave2,b. Percentage full-time,32.014,1.413,26.017,2.77,1.93
+wave2,c. Starting wage,5.081,0.006,4.617,0.042,10.82
+wave2,d. Wage = $4.25 (%),0.0,0.0,25.316,4.923,-5.14
+wave2,e. Wage = $5.05 (%),85.498,1.938,1.266,1.266,36.38
+wave2,f. Price of full meal,3.415,0.036,3.027,0.067,5.08
+wave2,g. Hours open (weekday),14.42,0.152,14.654,0.327,-0.65
+wave2,h. Recruiting bonus (%),20.317,2.271,23.377,4.855,-0.57
